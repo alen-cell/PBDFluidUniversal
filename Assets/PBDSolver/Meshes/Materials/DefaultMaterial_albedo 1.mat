@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DefaultMaterial_albedo 1
+  m_Shader: {fileID: 4800000, guid: 19f25a5c3ad429645a5c599f2f4c870e, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1c78f1891bac1fd49bd6ae39cdea4123, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCap:
+        m_Texture: {fileID: 2800000, guid: e69c52fc16f2f894991d56a8c4166fd6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 20ff6d6d10604b543b3be8a1e07f1d03, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ThickMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Blend: 0.367
+    - _NormalIntensity: 0.48
+    - _Pow: 3.57
+    - _Roughness: 1
+    - _ThickMapIntensity: 1
+    - _ThickMapInvert: 0
+    - _Value: 1.83
+    - _dis: 0.348
+    - _rotation: 117
+    m_Colors:
+    - _BackColor: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 1}
+    - _MainColor: {r: 0.9811321, g: 0.9811321, b: 0.9811321, a: 1}
+    - _MatCapColor: {r: 1, g: 0.8930817, b: 0.8930817, a: 1}
+  m_BuildTextureStacks: []
